@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 #################################################################################
-#   For this code to work, you must have users names and ID stored in user.txt  #
+#   For this code to work, you must have usernames and ID stored in 'user.txt'  #
 #                                                                               #
 #   To get the IDs, visite Profoundly through a debugging proxy and capture the #
 # json data that contains friends' players names and ID.                        #
