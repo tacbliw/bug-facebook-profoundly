@@ -4,6 +4,7 @@ test.py
 # User files
 user.txt
 messages.txt
+messages_old.txt
 user_new.txt
 
 # JSON files
