@@ -5,4 +5,4 @@ This bug allows you to view other people's messages, even an anonymous message t
 Source (Vietnamese): https://vietthao2000.com/profoundly-co-that-su-an-danh/
 
 ## Update 2019/3/12: 
-This bug is fixed by moving to another server and change the format of the JSON response. We can't see the sender but still can see all the messages ;)
+This bug is fixed by moving to another server and change the format of the JSON response. We can no longer see the sender but still can see all the messages ;)
