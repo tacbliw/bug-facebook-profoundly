@@ -8,5 +8,5 @@ Source (Vietnamese): https://vietthao2000.com/profoundly-co-that-su-an-danh/
 This bug is fixed by moving to another server and change the format of the JSON response. We can no longer see the sender but still can see all the messages ;)
 
 ## Update:
-This bug is completely fixed by moving to another other server and use authentication token.
+This bug is completely fixed by moving to another other server and use authentication token.  
 2019/4/18: I found the game deleted on facebook :D
